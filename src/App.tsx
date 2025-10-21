@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Vite + React  + TypeScript + vitest</h1>
+     <h1>Vite + React  + TypeScript + vite</h1>
     </>
   )
 }
